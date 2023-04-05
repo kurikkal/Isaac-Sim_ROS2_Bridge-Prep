@@ -12,7 +12,7 @@ Open the terminal and Run:
 ```
 unset LD_LIBRARY_PATH
 export FASTRTPS_DEFAULT_PROFILES_FILE=~/.ros/fastdds.xml
-export ROS_DOMAIN_ID=(id_number)
+export ROS_DOMAIN_ID=99
 ```
 
 Choose a domain ID(eg:99)
